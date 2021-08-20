@@ -6,9 +6,9 @@ The Bank app is a console-based application that simulates banking operations. A
 
 ## Technologies Used
 
-Language: Java
-IDE: Spring Tool Suite 4
-Database: PostgreSQL
+* Language: Java
+* IDE: Spring Tool Suite 4
+* Database: PostgreSQL
 
 ## Features
 
